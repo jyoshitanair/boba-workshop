@@ -1,6 +1,6 @@
 body{
   padding: 25px;
-  animation-name: bg;
+  animation-name: animation;
   animation-duration: 25s;
   animation-iteration-count: infinite;
 }
